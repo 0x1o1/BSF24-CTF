@@ -162,3 +162,13 @@
 
 الفلاق : FlagBSF{Spearphishing_Link}
 
+# إسم التحدي : intelligence 2
+وصف التحدي : منذ أن قمت بتحديد التنكنيك الفرعي المستخدم في "intelligence 1", هل يمكنك إيجاد المعرّف أو الـ"ID" الخاص بالتكنيك الفرعي؟
+
+![Threat Intelligence2](https://github.com/0x1o1/BSF24-CTF/assets/112539392/dd4979c7-6a36-4310-acb9-9a08d3bea92d)
+
+ممكن نبحث عنه في نفس الصقحة وكما هو ظاهر أمامك في الصورة التالية هذا هو الـ"ID" :
+
+![IDT](https://github.com/0x1o1/BSF24-CTF/assets/112539392/a5236e16-ba3a-4bc6-be5a-6977514eea8e)
+
+الفلاق : FlagBSF{T1566.002}
