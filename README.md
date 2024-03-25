@@ -93,8 +93,10 @@
 
 ![Parsing1 chall](https://github.com/0x1o1/BSF24-CTF/assets/112539392/eba2d0b0-0ff8-48d9-a067-b54cdb6805c7)
 
-ةهذا الملف:
+وهذا الملف:
 ![PF file on chall](https://github.com/0x1o1/BSF24-CTF/assets/112539392/566b4f4f-47ec-4252-abdb-e4e11e1f725f)
 
+طبعاً عشان نقدر نحلل الملف فيه أداة بسيطة و مشهورة في موضوع تحليل هالملفات إسمها (PECmd):
 
+![The tool](https://github.com/0x1o1/BSF24-CTF/assets/112539392/c8edb1e2-63fa-4b02-81cf-d86a11c599d4)
 
