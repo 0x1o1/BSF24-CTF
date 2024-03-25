@@ -58,5 +58,7 @@
 الفلاق : FlagBSF{192.168.80.128}
 
 # إسم التحدي : Failure 4
-وصف التحدي : إكمالاً لـ"Failure 3", ما هو إسم المستخدم  المسؤول عن مسح السجلات؟![Failure 4 chall](https://github.com/0x1o1/BSF24-CTF/assets/112539392/7d178106-5a5c-4da2-a856-3dd7aa0fdfe8)
+وصف التحدي : إكمالاً لـ"Failure 3", ما هو إسم المستخدم  المسؤول عن مسح السجلات؟
+
+![Failure 4 chall](https://github.com/0x1o1/BSF24-CTF/assets/112539392/7d178106-5a5c-4da2-a856-3dd7aa0fdfe8)
 
