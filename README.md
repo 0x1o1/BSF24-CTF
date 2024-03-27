@@ -397,8 +397,8 @@
 
 # حسابات التواصل الخاصة بصاحب المسابقة
 تويتر : https://twitter.com/FS_Alhumaid
-لينكد ان : https://www.linkedin.com/in/falhumaid/
+, لينكد ان : https://www.linkedin.com/in/falhumaid/
 
 # حساباتي
 تويتر : https://twitter.com/0x1o1
-لينكد ان : https://www.linkedin.com/in/0x1o1/
+, لينكد ان : https://www.linkedin.com/in/0x1o1/
