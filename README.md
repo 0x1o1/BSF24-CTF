@@ -392,13 +392,13 @@
 
 في النهاية أحب أوجه الشكر لـ م.فيصل الحميد على التحديات الجميلة و أيضًا شكرًا جزيلًا لك على صبرك و أتمنى فعلاّ أنك إستفدت من "الرايت أب" لجميع تحديات "BSFCTF24" و بإذن الله القادم أفضل و أفضل.
 
-# ملفات التحديات :
+# ملفات التحديات
 رابط الدرايف : https://drive.google.com/drive/folders/1CLbUQrGUbEJqLhPwnIWDS0iyTu-ld2Ce?usp=sharing
 
-# حسابات التواصل الخاصة بصاحب المسابقة :
+# حسابات التواصل الخاصة بصاحب المسابقة
 تويتر : https://twitter.com/FS_Alhumaid
 لينكد ان : https://www.linkedin.com/in/falhumaid/
 
-# حساباتي : 
+# حساباتي
 تويتر : https://twitter.com/0x1o1
 لينكد ان : https://www.linkedin.com/in/0x1o1/
